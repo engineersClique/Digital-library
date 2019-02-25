@@ -20,7 +20,8 @@
         "laravel/tinker": "^1.0",
         "laravelcollective/html": "^5.7.0",
         "matriphe/iso-639": "^1.2",
-        "yajra/laravel-datatables": "^1.0"
+        "yajra/laravel-datatables": "^1.0",
+        "chumper/zipper": "1.0.x"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.2",

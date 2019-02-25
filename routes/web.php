@@ -71,10 +71,12 @@ Route::middleware('auth')->namespace('Admin')->prefix("admin")->name("admin.")->
 
 Route::get('videos', 'Videos\VideoController@index')->name('videos.index');
 
-Route::name('videos.')->prefix('videos')->group(function() {
-    Route::resource('/', 'Videos\VideoController')->only(['index']);
-    Route::get('topics/t/{topic_id}', 'Videos\VideoController@show_topic')->name('topics.show');
-    Route::get('topics/c/{topic_id}', 'Videos\VideoController@show_content')->name('content.show');
+Route::name('videos.')->prefix('videos')->namespace('Videos')->group(function() {
+    Route::resource('/', 'VideoController')->only(['index']);
+    Route::get('topics/t/{topic_id}', 'VideoController@show_topic')->name('topics.show');
+    Route::get('topics/c/{topic_id}', 'VideoController@show_content')->name('content.show');
+    Route::get('serve/{document}/pdf', 'VideoController@serve_pdf')->name('serve_pdf');
+    Route::get('serve/{document}/html5', 'VideoController@serve_html5')->name('serve_html5');
 });
 
 

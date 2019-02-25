@@ -33,6 +33,18 @@ function get_language($lang_id){
             return 'English';
             break;
     }
+}
 
+function get_thumbnail($files_array){
+    $files_array = $files_array->groupBy('extension');
 
+    foreach($files_array as $key => $file){
+        $file = $file->first();
+        if(in_array($key, ['png', 'jpg', 'jpeg']))
+        {
+            return url('storage/videos/'.$file['checksum'][0] . '/' . $file['checksum'][1] . '/' . $file['checksum'] . '.' . $file['extension']);
+        }
+    }
+
+    return '';
 }
