@@ -1,0 +1,87 @@
+{
+  "Recently Added": "हालसालै थपिएको",
+  "E-Books": "ई-पुस्तकहरू",
+  "Sorted Books": "क्रमबद्ध पुस्तकहरु",
+  "Sort By": "द्वारा क्रमबद्ध गर्नुहोस्",
+  "Sort By Newest": "नयाँ द्वारा क्रमबद्ध गर्नुहोस्",
+  "Sort By Oldest": "पुरानो द्वारा क्रमबद्ध गर्नुहोस्",
+  "View More": "थप हेर्नुहोस्",
+  "Lok Sewa Aayog": "लोक सेवा आयोग",
+  "Kharidar": "खरदार",
+  "Engineering": "ईन्जिनियरिङ्",
+  "Medical": "चिकित्सा",
+  "Learning Materials": "सिकाउने सामग्री",
+  "Mock Test": "मोक परीक्षण",
+  "List of courses": "पाठ्यक्रमहरूको सूची",
+
+  "Home": "गृह",
+  "Book": "पुस्तक",
+
+  "Interactive Teaching Learning":"पारस्परिक शिक्षण शिक्षा",
+  "Learn english": "अंग्रेजी सिक्नुहोस्",
+  "Entrance Tests": "प्रवेश परीक्षा",
+  "About Us": "हाम्रोबारे",
+  "Contact Us": "सम्पर्क गर्नुहोस",
+  "Legal Notice": "कानुनी सूचना",
+  "Partners": "साझेदारहरू",
+
+
+  "Newest": "नयाँ",
+  "Oldest": "पुरानो",
+  "Title": "शीर्षक",
+  "Hot Books": "Hot Books",
+  "Best rated Books": "उत्तम दर्जा पुस्तकहरु",
+  "Best Rated": "उत्तम दर्जा पुस्तकहरु",
+  "Discover": "खोज्नुहोस्",
+  "Categories": "कोटीहरू",
+  "Series": "श्रृंखला",
+  "Ascending": "बढ्दै",
+  "Descending": "घट्दै",
+  "Publishers": "प्रकाशकहरू",
+  "Author": "लेखक",
+  "Authors": "लेखकहरू",
+
+
+
+  "Newest Books": "नयाँ पुस्तकहरू",
+  "Oldest Books": "पुरानो पुस्तकहरू",
+  "Books (A-Z)": "पुस्तकहरु (जेड-ए)",
+  "Hot Books (most downloaded)": "हट पुस्तकहरू (सबै भन्दा लोकप्रिय डाउनलोड)",
+  "Best rated books": "उत्तम मूल्याङ्कन गरिएका पुस्तकहरू",
+
+  "Book Details": "पुस्तक विवरणहरू",
+  "Download": "डाउनलोड",
+
+  "Read in browser": "ब्राउजरमा पढ्नुहोस्",
+  "Language": "भाषा",
+  "Publisher": "प्रकाशक",
+  "Publishing date": "प्रकाशन मिति",
+  "Description": "वर्णन",
+  "book title": "पुस्तक शीर्षक",
+  "Discover (Random Books)": "पत्ता लगाउनुहोस् (अनियमित किताबहरू)",
+  "Publishing date from": "मिति बाट प्रकाशन गर्दै",
+  "Publishing date to": "ममिति सम्म प्रकाशन गर्दै",
+  "Tags": "ट्यागहरू",
+  "Exclude Tags": "ट्याग बहिष्कृत गर्नुहोस्",
+  "Exclude Series": "श्रृंखला बहिष्कृत गर्नुहोस्",
+
+  "Languages": "भाषाहरु",
+  "Exclude Languages": "भाषा बहिष्कार गर्नुहोस्",
+  "Rating bigger than": "भन्दा ठूलो मूल्याङ्कन",
+  "Rating less than": "मूल्याङ्कन भन्दा कम",
+  "Submit": "पेश गर्नुहोस्",
+
+
+
+  "Recently Added Books": "भर्खरै थपिएका पुस्तकहरू",
+  "Category list": "श्रेणी सूची",
+  "Publisher list": "प्रकाशक सूची",
+  "Language list": "भाषा सूची",
+  "Author list": "लेखक सूची",
+  "Series list": "श्रृंखला सूची",
+  "Category": "श्रेणी",
+
+  "Sort By Title Descending": "शीर्षक घट्दो द्वारा क्रमबद्ध",
+  "Sort By Title Ascending": "शीर्षक आश्रित द्वारा क्रमबद्ध"
+
+}
